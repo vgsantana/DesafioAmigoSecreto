@@ -1,0 +1,22 @@
+# Ignorar arquivos de sistema
+*.log
+*.tmp
+*.cache
+*.ini
+NTUSER.*
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Meus Documentos/
+Recent/
+SendTo/
+Videos/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+ProjetosC/
+ProjetosPython/
